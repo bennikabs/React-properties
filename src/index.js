@@ -17,9 +17,9 @@ root.render(
         the properties in the City component
       </p>
 
-      <City />
-      <City />
-      <City />
+      <City value={19.2} name="Berlin" />
+      <City value={25} name="Ams"/>
+      <City value={30} name=""/>
     </div>
   </StrictMode>
 );
