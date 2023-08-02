@@ -18,8 +18,8 @@ root.render(
       </p>
 
       <City value={19.2} name="Berlin" />
-      <City value={25} name="Ams"/>
-      <City value={30} name=""/>
+      <City value={25} name="Amsterdam"/>
+      <City value={30} name="Abuja"/>
     </div>
   </StrictMode>
 );
